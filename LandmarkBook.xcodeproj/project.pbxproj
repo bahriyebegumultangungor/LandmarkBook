@@ -13,6 +13,7 @@
 		533A74AF24E53C0E009B9B2B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 533A74AD24E53C0E009B9B2B /* Main.storyboard */; };
 		533A74B124E53C10009B9B2B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 533A74B024E53C10009B9B2B /* Assets.xcassets */; };
 		533A74B424E53C10009B9B2B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 533A74B224E53C10009B9B2B /* LaunchScreen.storyboard */; };
+		533A74BC24E54210009B9B2B /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 533A74BB24E54210009B9B2B /* ImageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		533A74B024E53C10009B9B2B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		533A74B324E53C10009B9B2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		533A74B524E53C10009B9B2B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		533A74BB24E54210009B9B2B /* ImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				533A74A724E53C0E009B9B2B /* AppDelegate.swift */,
 				533A74A924E53C0E009B9B2B /* SceneDelegate.swift */,
 				533A74AB24E53C0E009B9B2B /* ViewController.swift */,
+				533A74BB24E54210009B9B2B /* ImageViewController.swift */,
 				533A74AD24E53C0E009B9B2B /* Main.storyboard */,
 				533A74B024E53C10009B9B2B /* Assets.xcassets */,
 				533A74B224E53C10009B9B2B /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				533A74AC24E53C0E009B9B2B /* ViewController.swift in Sources */,
 				533A74A824E53C0E009B9B2B /* AppDelegate.swift in Sources */,
+				533A74BC24E54210009B9B2B /* ImageViewController.swift in Sources */,
 				533A74AA24E53C0E009B9B2B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
